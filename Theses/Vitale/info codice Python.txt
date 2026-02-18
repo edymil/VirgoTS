@@ -1,0 +1,8 @@
+Ecco il codice definitivo. Carico sul drive anche un filmato per farlo funzionare. I valori consigliati sono: 
+1- lavorare con tutti gli strati della piramide (quindi scrivere qualsiasi cosa nel primo input() )
+2-Piramide Laplaciana (lasciare vuoto e premere semplicemente Invio al secondo input())
+3-Filtro Ideal (lasciare vuoto anche il terzo input())
+4- Range frequenze 0.7 -1.3
+5- alpha non superiore a 50 e non inferiore a 10 per avere risultati visivi "belli"
+
+Ecco il video con cui provare l'EVM. Il programma che le ho condiviso funzione con video girati a 30 fps e di una durata di circa 10 secondi. Il programma adatta automaticamente il video alle dimensioni 512 512 ideali.
