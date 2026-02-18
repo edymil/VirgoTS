@@ -1,2 +1,2 @@
-#This directory contains both BSc theses *Triennali*, and MSc theses *Magistrali*
+**This directory contains Theses done in the context of Virgo Trieste**
 
